@@ -1,7 +1,7 @@
 # 84th Putnam Competition (2023) Solutions
 
 ## About Me
-I'm a high school student passionate about mathematics, especially competition math and rigorous proof techniques. This repository contains my solutions to the 84th Putnam Competition problems.
+I'm a person passionate about mathematics, especially competition math and rigorous proof techniques. This repository contains my solutions to the 84th Putnam Competition problems.
 
 ## Problems Covered
 ### A Problems
