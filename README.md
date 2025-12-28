@@ -24,7 +24,7 @@ I'm a person passionate about mathematics, especially competition math and rigor
 I welcome any feedback or suggestions for improvement. Feel free to open an issue or pull request!
 
 ## Contact
-For any inquiries or further discussion, you can reach me at [ilovestem@proton.me](mailto:ilovestem@proton.me).
+For any inquiries or further discussion, you can reach me at [ilovestem@proton.me](mailto:ilovestem@proton.me) or on my discord @inquant.
 
 ## Other Projects
 As of publishing this, I do not have any other projects. However, I plan to post more content related to mathematics, sciences, and coding in the future. Stay tuned!
